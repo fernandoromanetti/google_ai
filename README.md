@@ -15,7 +15,7 @@ https://www.cloudskillsboost.google/quests/117
 https://www.cloudskillsboost.google/quests/183
 
 
-  3 - Create ML Models With BigQuery ML<b> (13 Créditos)</b> <br>
+  3 - Create ML Models With BigQuery ML (13 Créditos) <br>
 https://www.cloudskillsboost.google/quests/146
 
 
