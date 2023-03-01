@@ -7,11 +7,11 @@ Curso - Google Cloud Data, Inteligência Artificial & ML
 # Trilha AI - Skills Boost
 (mínimo de 104 créditos por aluno)
 
-1 - Perform Foundational Data, ML and AI Tasks (16 Créditos)
+1 - Perform Foundational Data, ML and AI Tasks (16 Créditos) <BR>
 https://www.cloudskillsboost.google/quests/117
 
 2 - Building and Deploying Machine Learning Solutions with Vertex AI**(25 Créditos)
-(25 Créditos)
+(25 Créditos) <br>
 https://www.cloudskillsboost.google/quests/183
 
 
