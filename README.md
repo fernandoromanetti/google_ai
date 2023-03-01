@@ -15,16 +15,16 @@ https://www.cloudskillsboost.google/quests/117
 https://www.cloudskillsboost.google/quests/183
 
 
-3 - Create ML Models With BigQuery ML (13 Créditos)
+3 - Create ML Models With BigQuery ML (13 Créditos) <br>
 https://www.cloudskillsboost.google/quests/146
 
 
-4 - Integrate with Machine Learning API’s (31 Créditos)
+4 - Integrate with Machine Learning API’s (31 Créditos) <br>
 https://www.cloudskillsboost.google/quests/136
 
 
-5 - Automate interactions with Contact Center AI (19 Créditos)
-https://www.cloudskillsboost.google/quests/127
+5 - Automate interactions with Contact Center AI (19 Créditos) <br>
+https://www.cloudskillsboost.google/quests/127 target=_blank
 
 -----------------------------------------------------
 
