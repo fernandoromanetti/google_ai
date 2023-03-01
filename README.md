@@ -24,7 +24,7 @@ https://www.cloudskillsboost.google/quests/136
 
 
 5 - Automate interactions with Contact Center AI (19 Créditos) <br>
-https://www.cloudskillsboost.google/quests/127 target=_blank
+https://www.cloudskillsboost.google/quests/127 <target="_blank">
 
 -----------------------------------------------------
 
